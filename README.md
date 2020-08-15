@@ -9,7 +9,7 @@ Contoh tampilan Front-matter:
 
 Contoh Code Highlighting:
 
-![Demo tema](html-preview/code-higlihghting)
+![Demo tema](html-preview/code-higlihghting.png)
 
 Untuk preview template, silahkan buka folder `html-preview`.
 
