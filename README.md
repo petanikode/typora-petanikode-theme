@@ -5,11 +5,11 @@ Petani Kode. Tujuannya untuk memudahkan dalam penulisan konten di Petani Kode.
 
 Contoh tampilan Front-matter:
 
-![Demo tema](html-preview/front-matter.png)
+![Demo tema](html-preview/screenshot/front-matter.png)
 
 Contoh Code Highlighting:
 
-![Demo tema](html-preview/code-higlihghting.png)
+![Demo tema](html-preview/screenshot/code-higlihghting.png)
 
 Untuk preview template, silahkan buka folder `html-preview`.
 
@@ -26,6 +26,7 @@ Untuk pengguna Linux dan Mac, silahkan clone repository ini:
 
 ```bash
 git clone https://github.com/petanikode/typora-petanikode-theme.git
+cd typora-petanikode-theme
 ```
 
 Lalu eksekusi script `install.sh`:
