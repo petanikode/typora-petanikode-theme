@@ -1,0 +1,126 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/** code highlight */
+
+.cm-s-inner .cm-variable {
+    color: var(--dracula-green)
+}
+
+.cm-s-inner .cm-operator {
+    color: var(--dracula-pink)
+}
+
+.cm-s-inner .cm-property {
+    color: var(--dracula-foreground);
+}
+
+.cm-s-inner .cm-keyword {
+    color: var(--dracula-pink);
+}
+
+.cm-s-inner .cm-tag {
+    color: var(--dracula-pink);
+}
+
+.cm-s-inner .cm-attribute {
+    color: var(--dracula-green);
+}
+
+.CodeMirror div.CodeMirror-cursor {
+    border-left: 1px solid var(--dracula-foreground);
+    z-index: 3;
+}
+
+.cm-s-inner .cm-string,
+.cm-s-inner .cm-string-2 {
+    color: var(--dracula-yellow);
+}
+
+.cm-s-inner .cm-comment,
+.cm-s-inner.cm-comment {
+    color: var(--dracula-comment);
+}
+
+.cm-s-inner .cm-header,
+.cm-s-inner.cm-header,
+.cm-s-inner .cm-def,
+.cm-s-inner.cm-def {
+    color: var(--dracula-cyan);
+}
+
+.cm-s-inner .cm-quote,
+.cm-s-inner.cm-quote {
+    color: #57ac57;
+}
+
+.cm-s-inner .cm-hr {
+    color: #d8d5d5;
+}
+
+.cm-s-inner .cm-link {
+    color: #d3d3ef;
+}
+
+.cm-s-inner .cm-negative {
+    color: #d95050;
+}
+
+.cm-s-inner .cm-positive {
+    color: #50e650;
+}
+
+.cm-s-inner .cm-meta,
+.cm-s-inner .cm-qualifier {
+    color: var(--dracula-green);
+}
+
+.cm-s-inner .cm-builtin {
+    color: var(--dracula-green);
+}
+
+.cm-s-inner .cm-bracket {
+    color: var(--dracula-foreground);
+}
+
+.cm-s-inner .cm-atom,
+.cm-s-inner.cm-atom {
+    color: var(--dracula-cyan);
+}
+
+.cm-s-inner .cm-number {
+    color: var(--dracula-purple);
+}
+
+.cm-s-inner .cm-variable {
+    color: var(--dracula-foreground);
+}
+
+.cm-s-inner .cm-variable-2 {
+    color: var(--dracula-foreground);
+}
+
+.cm-s-inner .cm-variable-3 {
+    color: var(--dracula-cyan);
+    font-style: italic;
+}
+
+.CodeMirror-selectedtext,
+.CodeMirror-selected {
+    background: var(--dracula-current-line) !important;
+    color: #fff !important;
+    text-shadow: none;
+}
+
+
+.md-fences {
+	background-color: var(--dracula-background);
+	color: var(--dracula-foreground);
+	font-family: var(--petanikode-font-mono);
+	font-size:1em;
+	font-weight: 500;
+	padding: 1em !important;
+	font-size: .9rem;
+	white-space: pre;
+	border-radius: 8px;
+}
