@@ -40,7 +40,7 @@ Untuk pengguna Windows, silahkan eksekusi file `install-windows.bat`.
 Instalasi secara manual juga bisa dilakukan dengan copy/paste folder `petanikode`
 dan file `petanikode.css` ke dalam folder theme Typora.
 
-## Creadits
+## Credits
 
 - [Base Theme from Typora](https://github.com/typora/typora-theme-toolkit)
 - Codeblock Highlighting by [dracula/typora](https://github.com/dracula/typora)
