@@ -18,7 +18,7 @@ Untuk preview template, silahkan buka folder `html-preview`.
 Saat ini, tema menggunakan font `Georgia`, `Lato`, dan `Fira mono` dari sistem.
 Pastikan ketiga font ini sudah terinstal di komputermu.
 
-> P.S kedepannya font akan di-embed di dalam tema ([#1](issues/1))
+> P.S kedepannya font akan di-embed di dalam tema ([#1](../../issues/1))
 
 # Cara Install
 
