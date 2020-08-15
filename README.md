@@ -5,11 +5,11 @@ Petani Kode. Tujuannya untuk memudahkan dalam penulisan konten di Petani Kode.
 
 Contoh tampilan Front-matter:
 
-![Demo tema](html-preview/front-matter.png.png)
+![Demo tema](html-preview/front-matter.png)
 
 Contoh Code Highlighting:
 
-![Demo tema](html-preview/code-higlihghting.png)
+![Demo tema](html-preview/code-higlihghting)
 
 Untuk preview template, silahkan buka folder `html-preview`.
 
