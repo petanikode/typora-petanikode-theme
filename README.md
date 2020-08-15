@@ -1,6 +1,6 @@
 # Petani Kode Typora Theme
 
-Tema khusus Petani Kode untuk Typora. Tema ini meniru tampilan blog dari
+Tema khusus Petani Kode untuk Typora. Tema ini meniru tampilan artikel dari
 Petani Kode. Tujuannya untuk memudahkan dalam penulisan konten di Petani Kode.
 
 Contoh tampilan Front-matter:
@@ -18,7 +18,7 @@ Untuk preview template, silahkan buka folder `html-preview`.
 Untuk saat ini, tema menggunakan font `Georgia`, `Lato`, dan `Fira mono`.
 Pastikan ketiga font ini terinstal di komputermu.
 
-> P.S kedepannya font akan di-embed di dalam tema
+> P.S kedepannya font akan di-embed di dalam tema (#1)
 
 # Cara Install
 
