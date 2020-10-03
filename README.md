@@ -1,44 +1,46 @@
 # Petani Kode Typora Theme
 
-Tema khusus Petani Kode untuk Typora. Tema ini meniru tampilan artikel dari
-Petani Kode. Tujuannya untuk memudahkan penulisan konten di Petani Kode.
+This theme are mock of the Petani Kode article style.
+Created to make content writing easier.
 
-Contoh tampilan Front-matter:
+Example Font-matter view:
 
-![Demo tema](html-preview/screenshot/front-matter.png)
+![Demo front-matter](html-preview/screenshot/front-matter.png)
 
-Contoh Code Highlighting:
+Example Sytax highlighting:
 
-![Demo tema](html-preview/screenshot/code-higlihghting.png)
+![Demo syntax highlighting](html-preview/screenshot/code-higlihghting.png)
 
-Untuk preview template, silahkan buka folder `html-preview`.
+For theme preview, please check the 📁 `html-preview` folder.
 
 # Requirement
 
-Saat ini, tema menggunakan font `Georgia`, `Lato`, dan `Fira mono` dari sistem.
-Pastikan ketiga font ini sudah terinstal di komputermu.
+Fon required `Georgia`, `Lato`, and `Fira mono`. Make sure these font are installed on your system.
 
-> P.S kedepannya font akan di-embed di dalam tema ([#1](../../issues/1))
+> P.S fot next version we will embed these font ([#1](../../issues/1))
 
-# Cara Install
+# How to Install
 
-Untuk pengguna Linux dan Mac, silahkan clone repository ini:
+First, clone this repository:
 
 ```bash
 git clone https://github.com/petanikode/typora-petanikode-theme.git
 cd typora-petanikode-theme
 ```
 
-Lalu eksekusi script `install.sh`:
+For Linux and Mac user, run the `install.sh` script.
 
 ```bash
 bash install.sh
 ```
 
-Untuk pengguna Windows, silahkan eksekusi file `install-windows.bat`.
+for Windows user run the `install-windows.bat` script.
 
-Instalasi secara manual juga bisa dilakukan dengan copy/paste folder `petanikode`
-dan file `petanikode.css` ke dalam folder theme Typora.
+```bat
+install-windows.bat
+```
+
+For manual instalation you can copy/paste the `petanikode` folder and `petanikode.css` file to the Typora theme directory.
 
 ## Credits
 
